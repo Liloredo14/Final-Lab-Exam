@@ -1,4 +1,3 @@
-<!-- src/views/admin/CheckoutMonitoring.vue -->
 <template>
   <div class="container mt-5">
     <h2>Checkout Monitoring</h2>
@@ -49,6 +48,7 @@
     </table>
 
     <!-- Order Details Modal -->
+
     <div
       class="modal fade"
       :class="{ show: showDetailsModal, 'd-block': showDetailsModal }"

@@ -43,6 +43,7 @@
     </table>
 
     <!-- Add/Edit Product Modal -->
+
     <div
       class="modal fade"
       :class="{ show: showAddModal, 'd-block': showAddModal }"
@@ -126,6 +127,7 @@
     <div v-if="showAddModal" class="modal-backdrop fade show"></div>
 
     <!-- Delete Confirmation Modal -->
+
     <div
       class="modal fade"
       :class="{ show: showDeleteModal, 'd-block': showDeleteModal }"
