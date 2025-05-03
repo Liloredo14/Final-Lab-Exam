@@ -1,4 +1,3 @@
-<!-- src/views/customer/ShoppingCart.vue -->
 <template>
   <div class="container mt-5">
     <h2>Your Shopping Cart</h2>
